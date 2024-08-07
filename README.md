@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 <br />
 [![Soogyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soogyong0726&show_icons=true&theme=flag-india&locale=kr&hide=prs,contribs)](https://github.com/Soogyong0726)
 
+<br />
+<a href="https://github.com/Soogyong0726/python_webscraping_analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soogyong0726&repo=python_webscraping_analysis" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soogyong0726&repo=test240723" />
+</a>
