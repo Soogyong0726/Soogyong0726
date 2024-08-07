@@ -1,4 +1,4 @@
-## Hi there 👋
+## 😎
 
 <!--
 **Soogyong0726/Soogyong0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
